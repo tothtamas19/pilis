@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    background-color: green
+}
+
+.container{
+    background-color: white;
+    max-width: 1100px;
+    margin: 0px,auto;
+}
